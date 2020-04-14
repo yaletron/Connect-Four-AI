@@ -1,0 +1,13 @@
+C:\Users\yalet\source\repos\ConnectFourAI\ConnectFourAI\bin\Debug\netcoreapp3.1\ConnectFourAI.exe
+C:\Users\yalet\source\repos\ConnectFourAI\ConnectFourAI\bin\Debug\netcoreapp3.1\ConnectFourAI.deps.json
+C:\Users\yalet\source\repos\ConnectFourAI\ConnectFourAI\bin\Debug\netcoreapp3.1\ConnectFourAI.runtimeconfig.json
+C:\Users\yalet\source\repos\ConnectFourAI\ConnectFourAI\bin\Debug\netcoreapp3.1\ConnectFourAI.runtimeconfig.dev.json
+C:\Users\yalet\source\repos\ConnectFourAI\ConnectFourAI\bin\Debug\netcoreapp3.1\ConnectFourAI.dll
+C:\Users\yalet\source\repos\ConnectFourAI\ConnectFourAI\bin\Debug\netcoreapp3.1\ConnectFourAI.pdb
+C:\Users\yalet\source\repos\ConnectFourAI\ConnectFourAI\obj\Debug\netcoreapp3.1\ConnectFourAI.csprojAssemblyReference.cache
+C:\Users\yalet\source\repos\ConnectFourAI\ConnectFourAI\obj\Debug\netcoreapp3.1\ConnectFourAI.csproj.CoreCompileInputs.cache
+C:\Users\yalet\source\repos\ConnectFourAI\ConnectFourAI\obj\Debug\netcoreapp3.1\ConnectFourAI.AssemblyInfoInputs.cache
+C:\Users\yalet\source\repos\ConnectFourAI\ConnectFourAI\obj\Debug\netcoreapp3.1\ConnectFourAI.AssemblyInfo.cs
+C:\Users\yalet\source\repos\ConnectFourAI\ConnectFourAI\obj\Debug\netcoreapp3.1\ConnectFourAI.dll
+C:\Users\yalet\source\repos\ConnectFourAI\ConnectFourAI\obj\Debug\netcoreapp3.1\ConnectFourAI.pdb
+C:\Users\yalet\source\repos\ConnectFourAI\ConnectFourAI\obj\Debug\netcoreapp3.1\ConnectFourAI.genruntimeconfig.cache

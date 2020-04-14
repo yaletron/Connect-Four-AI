@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\yalet\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\yalet\\.nuget\\packages"
+    ]
+  }
+}
